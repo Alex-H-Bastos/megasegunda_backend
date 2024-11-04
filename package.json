@@ -1,0 +1,12 @@
+{
+  "name": "megasegunda_backend",
+  "version": "1.0.0",
+  "description": "mega-segunda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alex.hbastos",
+  "license": "ISC"
+}
+
